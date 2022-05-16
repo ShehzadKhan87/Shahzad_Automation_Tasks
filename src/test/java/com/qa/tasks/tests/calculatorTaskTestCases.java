@@ -1,6 +1,5 @@
 package com.qa.tasks.tests;
 
-import static org.testng.Assert.assertTrue;
 
 import java.util.concurrent.TimeoutException;
 
