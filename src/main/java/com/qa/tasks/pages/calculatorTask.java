@@ -1,7 +1,5 @@
 package com.qa.tasks.pages;
 
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.PageFactory;
 
 import com.qa.tasks.TestBase.TestBase;
